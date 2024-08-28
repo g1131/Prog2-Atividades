@@ -1,0 +1,20 @@
+    Exercício 1:
+A linha 4 imprime o valor de i, ou seja 5.
+Já a linha 5, imprime o endereço da variável i.
+
+    Exercício 2:
+As linhas imprimem os endereços de cada uma das variáveis.
+
+    Exercício 3:
+As linhas 6 e 8 imprimem o valor 55, da variável num, já a linha 7 imprime o endereço dessa mesma variável.
+
+    Exercício B:
+B1: Letra e.
+B2: Letra c.
+B3: Letra as instruções de b até e são validas. Elas atribuem ou declaram variáveis ou ponteiros.
+
+    Exercício C:
+Afirmativa 5 é falsa, pti tem o endereço da variável i.
+
+    Exercício D:
+No arquivo exD.cpp.

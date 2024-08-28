@@ -1,0 +1,25 @@
+23/08/2024
+
+P. 12 e 13.
+
+Ex 1.
+Se "cout << nome" fosse utilizado, a instrução seria "ilegal" pois cout não é utilização em funções com return.
+
+Ex 2.
+É possível diferenciar quais funções tem retorno graças ao tipo declarado antes do nome da função, como int (retorno inteiro) ou void (retorno nulo).
+Os retornos estão sendo utilizados em contas, assim como seus parâmetros.
+Implementação em arquivo separado.
+
+Ex 3.
+A primeira função é de retorno inteiro e não tem parâmetros.
+A segunda é uma função aleatória sem retorno e tem como parâmetros "seeds" novas a cada vez que ela roda.
+A terceira função, de retorno inteiro utiliza constantes e strings como retorno.
+
+Ex 4.
+Arquivo separado.
+
+Ex 5.
+Arquivo separado.
+
+Ex 6.
+Arquivo separado.

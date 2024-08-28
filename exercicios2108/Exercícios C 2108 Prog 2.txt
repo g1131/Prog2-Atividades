@@ -1,0 +1,21 @@
+Exercícios C 21/08 Prog 2
+
+C. Explique, com suas palavras, os conceitos/significados dos seguintes termos:
+
+    1. Funções
+Funções são uma maneira de otimizar o código escrevendo operações fora da main, o que nos permite chama-las varias vezes para as executar.
+
+    2. Argumentos/Parâmetros
+São as variáveis que a função utiliza para executar suas operações.
+
+    3. Tipos de funções
+Existem diferentes tipos de funções, a diferença entre eles é o tipo de retorno que a função possui.
+
+    4. void
+Funções sem retorno.
+
+    5. Tipos de passagem de parâmetro (qual o padrão do C/C++?)
+
+    6. Retorno de uma função (quais os tipos de retorno?)
+Void (sem retorno), int float double (retornam seus respectivos tipos de números), bool (V/F).
+

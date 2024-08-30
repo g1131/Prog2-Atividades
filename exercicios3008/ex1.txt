@@ -1,0 +1,33 @@
+    Exercício A1:
+A linha 2 mostra os valores originais de x, y e z.
+A linha 6 mostra x, y e z depois que 100 foi somado a eles na função.
+A linha 12 mostra os mesmos valores que a linha 6.
+
+    Exercício A2:
+A linha 2 mostra os valores originais de x, y e z.
+Na linha 6 a variável recebe 100.
+Na linha 12 as variáveis recebem os valores declarados na inicialização do main.
+
+    Exercício A3:
+Na linha 7 A será 0 e b será 5.
+Na linha 9 A e B terão os mesmos valores.
+
+    Exercício A4:
+Na linha 11 as variáveis tem seus valores iniciais.
+Na linha 13 todas as variáveis são zeradas.
+Na linha 14 na 14 elas ainda esão como 0.
+
+    Exercício A5:
+A linha 3 escreve o valor de *num apos a incrementação de 10.
+A linha 9 printa o valor incrementado de 1 após ser jogado na função.
+
+    Exercício A6:
+Na linha 4 ele multiplica o ponteiro A por 2.
+Na linha 5 ele soma 5 à variável B.
+Na linhas 11 e 12, o código escreve as variáveis X e Y após rodar elas pela função que contem as operações das linhas 4 e 5.
+
+    Exercício A7:
+Ele escreve o resultado de a somado (y-x) vezes à variável i.
+
+    Exercício B1:
+A leitura é possível, ela só não resulta em nada.

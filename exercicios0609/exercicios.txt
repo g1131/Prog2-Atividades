@@ -1,0 +1,18 @@
+    Exercício B:
+Se houver algum elemento a[i]!=0 após um índice que contem 0, a função retornará como falsa.
+Uma possível solução é adicionar um break quando a condição for verdade, exemplo:
+for (i = 0; i < n; i++)
+    if (a[i] == 0)
+        return true;
+        break;
+    else
+        return false;
+
+    Exercício D:
+6: Na linha 16 do algoritmo, a variável S recebera o valor de i (que inicia com o mesmo valor que b,
+mas é incrementado por 1 a cada "passada" do for), a cada vez que i for divisivel por a.
+esse processo se repetirá por (z-y) vezes.
+
+7: A função verifica() checa se o quadrado da soma (n/100)+(n%100) é igual ao número n original.
+
+8: A linha escreve os divisores de uma variável.

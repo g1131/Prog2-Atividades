@@ -1,0 +1,23 @@
+Exercício A:
+Alternativa C.
+
+Exercício B:
+Y possui o valor 4 após a execução do programa.
+
+Exercício C:
+(V)
+(V)
+(V)
+
+Exercício D:
+Substituir a linha 4 por:
+    p = &x;
+
+Exercício E:
+O resultado printado é 9, que vem dos indices [0] e [9] do vetor, que respectivamente tem 1 e 10, 9=10-1.
+
+Exercício F:
+pc1=1000
+pc2=1001
+pc3=1005
+pc4=1000
